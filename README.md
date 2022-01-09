@@ -4,6 +4,8 @@
 
 I had way too much fun creating this diagram.
 
+![Architecture diagram](py-fl-eb-rds-arch.png)
+
 Working on a CloudFormation template...
 
 <br>
